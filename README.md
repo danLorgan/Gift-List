@@ -1,5 +1,5 @@
 🎄 Grandpa’s Christmas Wish List
-A simple web app to help Grandpa keep track of his Christmas gift ideas — without accidentally adding duplicates!
+A simple web app to help Grandpa keep track of his Christmas gift ideas without accidentally adding duplicates!
 
 ✅ Features
 Prevents duplicate gift entries
@@ -24,6 +24,6 @@ Click Delete to remove an item
 📦 Tech
 HTML
 
-CSS (optional)
+CSS
 
 JavaScript (Vanilla)
